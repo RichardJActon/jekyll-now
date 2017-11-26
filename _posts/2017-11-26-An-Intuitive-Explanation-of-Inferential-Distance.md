@@ -1,5 +1,3 @@
-# An Intuitive Explanation of Inferential Distance
-
 Let us represent our beliefs as nodes in a network. Most nodes in your network of beliefs have dependencies, they are connected to other beliefs the truth value of which they are contingent on.
 
 Picture a subset of your network of beliefs, let us take a simplified section that looks like a tree, stripping away the complex interconnections to aid in visualization. 
