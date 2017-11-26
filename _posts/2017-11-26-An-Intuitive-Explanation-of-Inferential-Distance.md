@@ -16,9 +16,7 @@ __The Other:__ What are trees? and why are you labeling your beliefs with letter
 
 *The one must then traverse back down their tree to node C and first convince the other of C. The one made the mistake of thinking the inferential distance between themself and the other was but 1 node when in actuality it was 2. The one must convince the other not merely that apples grow on trees but must also introduce the concept of trees.*
 
-__The One:__ Trees are large upright plants with stiff bodies due in part to large amounts of lignin in some of their cell walls, a property not shared by they bendier cousins. There is one over their with apples growing on it.
-
-__The One:__ (points to a nearby apple tree)
+__The One:__ Trees are large upright plants with stiff bodies due in part to large amounts of lignin in some of their cell walls, a property not shared by they bendier cousins. There is one over their with apples growing on it. *(points to a nearby apple tree)*
 
 ---
 
@@ -30,9 +28,7 @@ There is a distinction to be drawn between adding a new node to an interlocutor'
 
 __The Other:__ There is not such thing as trees.
 
-__The One:__ let us call that belief C', What then is yonder plant with apples growing on it? 
-
-__The One:__ (points to a nearby apple tree)
+__The One:__ let us call that belief C', What then is yonder plant with apples growing on it? *(points to a nearby apple tree)*
 
 __The Other:__ That is just an unusually large fern.
 
