@@ -44,3 +44,4 @@ Depending on your interlocutor and subject you may wish to begin incrementally t
 
 Some branches of the tree which you may wish to graft onto others will have deeply rooted dependencies which run back to fundamental epistemic differences and will present a major challenge to make them successfully take. Some branches however have shallow dependencies and can easily be transfered even between those with but a single necessary belief in common. This can be strategically important as people may believe the same thing for different or even invalid reasons and pointing this out can be detrimental in the short term if you are running a "Mothers Against Drunk Driving" style single issue campaign (Potential Dark Side Applications Warning).
 
+[See This post at Less wrong](https://www.lesserwrong.com/posts/DdoDzNT8Y99aEAdvh/an-intuitive-explanation-of-inferential-distance)
