@@ -1,11 +1,14 @@
-# __Richard James Acton__
  
-```
+---
+
 Email: RichardJActon@gmail.com
+
 DOB: 30/10/1992
+
 POB: Scotland – UK
-```
- 
+
+---
+
 # 1	Research Experience
 ## 1.1	MSc Research Project – circRNAs in daf-2 and daf-2/16 mutant C. elegans Neurons.
 
