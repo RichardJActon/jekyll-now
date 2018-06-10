@@ -1,4 +1,5 @@
- 
+# Richard J. Acton
+
 ---
 
 Email: RichardJActon@gmail.com
@@ -10,25 +11,35 @@ POB: Scotland – UK
 ---
 
 # 1	Research Experience
-## 1.1	MSc Research Project – circRNAs in daf-2 and daf-2/16 mutant C. elegans Neurons.
+
+## 1.1 _Current_ - The Epigenomics of Human Aging (PhD)
+
+Supervisor Dr. Chris Bell C.G.Bell@soton.ac.uk
+
+## 1.2	MSc Research Project – circRNAs in daf-2 and daf-2/16 mutant C. elegans Neurons.
 This project sought to identify circRNA product with differential expression between the neurons of *C. elegans* with normal and extended lifespan mutants. I analysed RNA-seq data, performing QC with FASTQC and read trimming with Trimmomatic. I performed alignments with bowtie2 and bwa. Followed by circRNA discovery with two dedicated circRNA detection tools. I made an index of circRNA discovery tools. The tools I used in this analysis were find_circ and CIRI. I used the DESeq2 tool for differential expression analysis. We found very low levels of agreement in circRNA detection, even between biological replicates. I was not able to find differential expression in any of the circRNAs detected between the long-lived and normal lifespan worms.  
+
 Supervisor: Irilenia Nobeli i.nobeli@mail.cryst.bbk.ac.uk
 
-## 1.2	4th year project – Working on the B methylase in the N6-methyladensine RNA modification system in Arabidopsis.
+## 1.3	4th year project – Working on the B methylase in the N6-methyladensine RNA modification system in Arabidopsis.
 Gene knock out in Arabidopsis using CRISPR, involving designing guide RNAs and producing transfection vectors using PCR and Golden Gate cloning. Using agrobacterial floral dip transfection to produce Arabidopsis transformants. Screening Arabidopsis plants for antibiotic resistance markers. Extracting RNA, using reverse transcription PCR to assess expression levels of cas9 in putative transformant plants and using capillary electrophoresis to screen for small mutations. 
+
 Supervisor: Dr. Rupert Fray rupert.fray@nottingham.ac.uk
 
-## 1.3	Summer Studentship 2014(BBSRC REP [Research experience placement]) – Working on Bd1483 a Bdellovibrio bacteriovorus protein. 
+## 1.4	Summer Studentship 2014 (BBSRC REP [Research experience placement]) – Working on Bd1483 a Bdellovibrio bacteriovorus protein. 
 Restriction cloning to attempt to create bacterial two hybrid vectors. Attempted to create vectors to produce genomic deletion and GFP tagged Bd1483 mutants by recombination using Gibson assembly cloning. Bd1483 expression analysis using reverse transcription PCR on existing RNA samples. Basic bioinformatic and phylogenetic analysis of Bd1483 [Sockett Lab].
 Produced and purified by nickel affinity chromatography quantities of His Tagged Bd1483 protein from an existing construct. Bd1483 was identified by molecular weight using Denaturing SDS-PAGE. Screened for metal cation binding using native PAGE. Prepared crystal trays for Bd1483, successfully producing X-ray diffracting crystals. Produced and attempted to purify DivIVA protein in solution containing surfactants [Lovering Lab].
+
 Supervisors: Professor Liz Sockett liz.sockett@nottingham.ac.uk, Dr. Andy Lovering a.lovering@bham.ac.uk
 
-## 1.4	3rd year project – Interactions of PilZ proteins of the Cyclic-dimeric-3’→5’-Guanosine Mono Phosphate (c-di-GMP) signalling system in Bdellovibrio bacteriovorus.
+## 1.5	3rd year project – Interactions of PilZ proteins of the Cyclic-dimeric-3’→5’-Guanosine Mono Phosphate (c-di-GMP) signalling system in Bdellovibrio bacteriovorus.
 Restriction cloning to produce Bacterial two hybrid vectors and Screening for interactions with other Bdellovibrio Proteins. Involving preparative and analytic DNA agarose gel electrophoresis and the Miller Assay to assess β-galactosidase activity as semi-quantitative indicator of the extent of interaction.
+
 Supervisor: Professor Liz Sockett liz.sockett@nottingham.ac.uk 
 
-## 1.5	Summer research placement – Identifying and expressing possible chlamydial effector protein genes in Human cell lines. 
+## 1.6	Summer research placement – Identifying and expressing possible chlamydial effector protein genes in Human cell lines. 
 Examining a set of previously identified chlamydial effector proteins I noted that one contained a nuclear localisation sequence, and considered that searching for chlamydial genes with an NLS might be an effective method of identifying a sub-set of chlamydial effector proteins. Produced mammalian expression vectors containing fluorescently tagged possible chlamydial effector proteins using SLICE cloning; a recombination based cloning technique, this process involved custom primer design. Used high speed lithium borate DNA agarose gel electrophoresis. Transfected HeLa and U20s derived cell lines with the resulting vectors using lipotransfection. examined the subcellular localisation of proteins using wide-field fluorescence microscopy.
+
 Supervisor: Dr. Alan Huett Alan.Huett@nottingham.ac.uk
 
 # 2 Programming Skills
@@ -92,7 +103,7 @@ Elected President of the National Federation of Atheist, Humanist and Secular St
 ## 5.1	Birkbeck MSc Bioinformatics with Systems Biology - Results by Module
 
 | Code      | Title                                           | Credit (180/yr) | Mark/% |
-|-----------|-------------------------------------------------|-----------------|--------|
+|-----------|:------------------------------------------------|----------------:|-------:|
 | CRYS001H7 | BioComputing I                                  | 15              | 88     |
 | CRYS002H7 | Molecular Structure                             | 15              | 80     |
 | CRYS003H7 | Statistics                                      | 15              | 85     |
