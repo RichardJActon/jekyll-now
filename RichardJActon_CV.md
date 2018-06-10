@@ -1,6 +1,4 @@
-# Richard J. Acton
-
----
+__Richard J. Acton__
 
 Email: RichardJActon@gmail.com
 
