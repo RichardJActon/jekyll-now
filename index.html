@@ -1,12 +1,24 @@
 ---
 layout: default
 ---
-
+<div>
+	<h1 class="site-name">Strands of the plot</h1> 
+  <div>
+  	{% for strand in site.strands %}
+  		<nav>
+  			<a href="{{ strand.url }}">
+  				{{ strand.name }}
+  			</a>
+  		</nav>
+  	{% endfor %}
+  </div>
+</div>
+<div><h1>Recent Posts</h1></div>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}

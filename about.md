@@ -8,7 +8,7 @@ Some information about me.
 
 ### More Information
 
-[curriculum vitae](/RichardJActon_CV/)
+[curriculum vitae](/RichardJActon_CV)
 
 ### Contact me
 
