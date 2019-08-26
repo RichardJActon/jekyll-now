@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about me.
-
 ### More Information
 
-[curriculum vitae](/RichardJActon_CV)
+[curriculum vitae](https://richardjacton.github.io/CV/RichardJActon_CV.html)
 
 ### Contact me
 
